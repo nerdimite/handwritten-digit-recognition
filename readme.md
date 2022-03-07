@@ -10,7 +10,7 @@
 - Akshaj Vishwanathan (RA1911026030003)
 - Hardik Gupta (RA1911026030027)
 
-This repository contains the source code for an end-to-end project for handwritten digit classication from training the model to deploying the model as an API using [CellStrat Hub](https://cellstrathub.com) and building a Web Application to invoke the API.
+This repository contains the source code for an end-to-end project for handwritten digit classification from training the model to deploying the model as an API using [CellStrat Hub](https://cellstrathub.com) and building a Web Application to invoke the API.
 
 [Play with the Web Application Here](https://digit-recog.netlify.app)
 
