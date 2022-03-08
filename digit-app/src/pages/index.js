@@ -139,7 +139,7 @@ export default function Home() {
           </div>
 
           {/* Status and Predict Button */}
-          <div className="mt-4 flex justify-between items-start flex-wrap">
+          <div className="mt-4 mb-2 flex justify-between items-start flex-wrap">
             <p>
               <span className="font-semibold text-gray-700">Status:</span>{" "}
               {status}
